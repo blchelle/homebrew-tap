@@ -1,6 +1,6 @@
 cask "rye" do
   version "0.0.4"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "e393f34a9f86cfcafe4e87526330c90154d0b45ef736e3ce7bcf268bdc69840a"
 
   url "https://github.com/blchelle/rye/releases/download/v#{version}/Rye-#{version}-arm64.dmg"
   name "Rye"
